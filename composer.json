@@ -1,0 +1,19 @@
+{
+  "name": "qwe987299/flarum-ext-customized-head",
+  "description": "Customize Head",
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "extra": {
+        "flarum-extension": {
+            "title": "Customize Head",
+            "icon": {
+                "name": "fas fa-code",
+                "backgroundColor": "#103446",
+                "color": "#fff"
+            }
+        }
+    }
+}
